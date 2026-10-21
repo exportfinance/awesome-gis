@@ -81,6 +81,7 @@
 |   [Point Inside](http://www.pointinside.com/) |   LBMarketing |   Bellevue, WA    |   US  |   2009    |
 |   [Pozzey](http://www.pozzey.com/)    |   Indoor  |   Adelaide    |   Australia   |   2014    |
 |   [PrecisionHawk](http://www.precisionhawk.com/)  |   Drones  |   Raleigh, NC |   US  |   2011    |
+|   [RemoteView](https://www.remoteview.online/)   |   Risk Intelligence   |   —   |   US  |   2026    |
 |   [Roximity](http://roximity.com/)    |   LBMarketing |   Denver, CO  |   US  |   2012    |
 |   [Satellogic](http://www.satellogic.com/)    |   Remote Sensing  |   Palo Alto, CA   |   US  |   2010    |
 |   [SenseFly](https://www.sensefly.com/)   |   Drones  |   Cheseaux-Lausanne   |   Switzerland |   2009    |
